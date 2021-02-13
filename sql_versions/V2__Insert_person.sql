@@ -1,0 +1,1 @@
+INSERT INTO person(id, first_name, last_name) VALUES(101,'Devendra', 'Deo');
